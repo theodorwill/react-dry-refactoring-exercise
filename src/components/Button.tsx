@@ -1,4 +1,4 @@
-import { StyledButton } from './Button.styles';
+import { StyledButton } from './styles/Button.styles';
 
 interface Props {
     bg?: string;
